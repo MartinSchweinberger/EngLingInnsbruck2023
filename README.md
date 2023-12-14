@@ -3,4 +3,6 @@ This reporsitory contain the materials for my talk at the University of Innsbruc
 + The slides are uploaded as pdf and pptx;
 + the Rmd files (the R notebooks) detail the analysis;
 + the html files represent the rendered versions of the R notebooks;
-+ only processed data is shared due to avoid copyright violation.
++ only processed data is shared due to avoid copyright violation (all data are stored in the *data* subfolder);
++ all tables are located in the *tables* subfolder;
++ all imgaes are located in the *images* subfolder.

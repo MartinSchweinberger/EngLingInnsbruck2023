@@ -1,5 +1,4 @@
-This reporsitory contain the materials for my talk at the University of Innsbruck entitled *English(es) on the Move
-What we can learn about language change from variation in amplifier use*.
+This reporsitory contain the materials for my talk at the University of Innsbruck on 16 Dec., 2023, entitled *English(es) on the Move - What we can learn about language change from variation in amplifier use*.
 
 + The slides are uploaded as pdf and pptx;
 + the Rmd files (the R notebooks) detail the analysis;
